@@ -1,4 +1,4 @@
 (executable
- (public_name cli_math)
  (name main)
+ (public_name calc)
  (libraries cli_math))
